@@ -1,4 +1,6 @@
 Download folder at:
-http://www.mediafire.com/folder/v1hydxwjxhsdo/Levels
+https://drive.google.com/open?id=1JeNcN_CGm_KQUAYguLlXqnYBQ-09nrat
 
-Open "CSE 323 Final Project" to play game
+Open "CSE 323 Final Project.exe" from the "game" folder you downloaded to play the game
+
+REQUIREMENTS: You must have a minimum 1080p monitor to play this game.
